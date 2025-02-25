@@ -1,5 +1,6 @@
 import java.util.Scanner;
-public class calc {
+
+public class Calc {
     public static void main(String[] args) {
         calculator calc = new calculator();
         Scanner sc = new Scanner(System.in);
@@ -20,7 +21,7 @@ public class calc {
             case 2:
                 calc.sub();
                 break;
-            case 3: 
+            case 3:
                 calc.product();
                 break;
             case 4:
@@ -33,6 +34,5 @@ public class calc {
                 System.out.println("Invalid choice");
                 break;
         }
-        
     }
 }
