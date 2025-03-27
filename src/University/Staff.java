@@ -1,4 +1,4 @@
-package src;
+package src.University;
 // Subclass: Staff
 
 class Staff extends Faculty {

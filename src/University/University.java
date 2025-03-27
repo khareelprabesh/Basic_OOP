@@ -1,4 +1,9 @@
-package src;
+package src.University;
+
+import src.University.Faculty;
+import src.University.FullTimeFaculty;
+import src.University.Lecturer;
+import src.University.Staff;
 
 // Main class
 public class University {

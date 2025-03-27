@@ -1,4 +1,4 @@
-package src;
+package src.University;
 // Superclass: Faculty
 class Faculty {
     String name;

@@ -1,4 +1,4 @@
-package src;
+package src.University;
 
 // Subclass: FullTimeFaculty
 class FullTimeFaculty extends Faculty {
